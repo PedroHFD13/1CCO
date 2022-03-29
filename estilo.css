@@ -1,0 +1,30 @@
+.titulo {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
+.subTitulo {
+    font-size: 13px;
+}
+.paragrafo {
+    font-family: 'Courier New', Courier, monospace;
+}
+.destaque {
+    color: aqua;
+}
+body{
+    font-family: monospace;
+}
+#caixa{
+    color: red;
+    background-color: chocolate;
+    width: 80%;
+}
+#caixa2{
+    width: 50%;
+    margin: 10px;
+    background-color: blue;
+}
+.paragrafo2{
+    color: green;
+}

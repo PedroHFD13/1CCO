@@ -1,0 +1,31 @@
+#a1 {
+    background-color: #abe345;
+    width: 730px;
+    height: 730px;
+}
+
+#b1 {
+    background-color: #dfbf31;
+    width: 365px;
+    height: 365px;
+}
+
+p {
+    color: crimson;
+    background-color: gray;
+    font-size: 79px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 2345px;
+}
+
+#c1 {
+    background-color: #ac7117;
+    width: 92vw;
+    height: 92vh;
+}
+
+#d1 {
+    background-color: #be6230;
+    width: 24vw;
+    height: 59%;
+}
